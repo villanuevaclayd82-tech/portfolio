@@ -100,7 +100,18 @@
 </body>
 </html>
 
+
+
+
+
+
+
+
+
+
+
 [style.css](https://github.com/user-attachments/files/23696261/style.css)
+
 /* Basic CSS Reset */
         *, *::before, *::after {
             box-sizing: border-box;
